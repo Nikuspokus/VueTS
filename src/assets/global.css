@@ -4,3 +4,13 @@ body {
   font-family: 'Open Sans';
   background: #ece6d9;
 }
+
+@font-face {
+  font-family: HyliaSerif;
+  src: url("hyliaserif.ttf") format("opentype");
+}
+
+h1 {
+  font-family: HyliaSerif;
+  letter-spacing: 1px;
+}
